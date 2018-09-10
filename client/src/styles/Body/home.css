@@ -1,0 +1,5 @@
+.body {
+  height: calc(90vh - 80px);
+  width: 100vw;
+  background-color: lightcoral;
+}
